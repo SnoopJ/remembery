@@ -203,6 +203,7 @@ _A storage facility for all the things I'd like to remember_
 * [Dispensationalism](https://en.wikipedia.org/wiki/Dispensationalism) - "Dispensationalism is a religious interpretive system and metanarrative for the Bible. It considers Biblical history as divided by God into dispensations, defined periods or ages to which God has allotted distinctive administrative principles."
 
 ### Programming
+* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 * [Collision detection and sprite animations](https://web.archive.org/web/20150905150249/https://www.ibm.com/developerworks/library/wa-html5-game8/index.html) - A nice article by IBM on 2D game physics
 * [An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 * [Introduction to A\*](https://www.redblobgames.com/pathfinding/a-star/introduction.html) - Red Blob's guide to pathfinding with A\*
